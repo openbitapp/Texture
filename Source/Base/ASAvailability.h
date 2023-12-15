@@ -31,7 +31,7 @@
 #endif
 
 #ifndef AS_USE_MAPKIT
-  #define AS_USE_MAPKIT 0
+  #define AS_USE_MAPKIT 1
 #endif
 
 #ifndef AS_USE_ASSETS_LIBRARY
